@@ -6,7 +6,7 @@ import logging
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-#FILL IN BELOW!!!!!!!!!!! <- PROGRAM WILL NOT FUN AT ALL WITH THIS INFO 
+#FILL IN BELOW!!!!!!!!!!! <- PROGRAM WILL NOT WORK AT ALL WITHOUT THIS INFO 
 # folder to track Example for Source Director -> Windows: "C:\\Users\\UserName\\Downloads"
 source_dir = ""
 dest_dir_sfx = ""
