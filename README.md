@@ -4,7 +4,7 @@ This Python program is an automated file organizer that monitors a specified fol
 
 Here's a summary of what it does:
 
-🔍 Key Features:
+Key Features:
 Real-Time Monitoring: Uses the watchdog library to watch for changes in a source directory.
 
 Automatic File Sorting: When a new file is added or modified in the source directory, it checks the file type and moves it accordingly:
@@ -23,7 +23,7 @@ Name Conflict Resolution: If a file with the same name already exists in the des
 
 Logging: Logs each file move operation with timestamps.
 
-⚠️ Setup Required:
+Setup Required:
 The program won’t work until you fill in the following directory paths:
 
     PYTHON
